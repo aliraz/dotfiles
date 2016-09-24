@@ -108,3 +108,5 @@ Bundle 'tpope/vim-fugitive'
 
 Plugin 'tomasr/molokai'
 Plugin 'fmoralesc/molokayo'
+
+Bundle 'rhysd/vim-clang-format'
